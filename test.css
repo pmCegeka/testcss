@@ -1,11 +1,8 @@
+// ---------------- FARBE 1 --------------------
 .customColor{
   color: hotpink !important;
   background-color: hotpink !important;
   outline: 2px solid hotpink !important;
-}
-
-.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
-  --mdc-chip-elevated-container-color: hotpink !important;
 }
 
 button.mat-stepper-next:not(:disabled){
@@ -14,4 +11,11 @@ button.mat-stepper-next:not(:disabled){
 
 button.mat-mdc-outlined-button:not(:disabled) {
   color: hotpink !important;
+}
+
+
+// ---------------- FARBE 2 --------------------
+
+.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+  --mdc-chip-elevated-container-color: purple !important;
 }
