@@ -1,5 +1,3 @@
-// ---------------- FARBE 1 --------------------
-
 
 .customColor{
   color: limegreen !important;
@@ -23,9 +21,6 @@ button.mat-mdc-outlined-button:not(:disabled) {
     background-color: limegreen !important;
 }
 
-
-// ---------------- FARBE 2 --------------------
-
 .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
-  --mdc-chip-elevated-container-color: bisque !important;
+  --mdc-chip-elevated-container-color: limegreen !important;
 }
