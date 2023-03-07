@@ -17,5 +17,5 @@ button.mat-mdc-outlined-button:not(:disabled) {
 // ---------------- FARBE 2 --------------------
 
 .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
-  --mdc-chip-elevated-container-color: purple !important;
+  --mdc-chip-elevated-container-color: bisque !important;
 }
