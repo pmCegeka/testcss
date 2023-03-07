@@ -8,7 +8,7 @@
   --mdc-chip-elevated-container-color: hotpink !important;
 }
 
-button#birthdate-stepper-continue-button:not(:disabled) {
+button.mat-stepper-next:not(:disabled){
   background-color: hotpink !important;
   outline: 2px solid pink !important;
 }
