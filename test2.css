@@ -15,6 +15,11 @@ button.mat-mdc-outlined-button:not(:disabled) {
   color: limegreen !important;
 }
 
+.mat-step-icon.mat-step-icon-state-number.mat-step-icon-selected {
+  background-color: limegreen !important;
+}
+
+
 // ---------------- FARBE 2 --------------------
 
 .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
