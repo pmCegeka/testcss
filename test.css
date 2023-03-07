@@ -1,4 +1,3 @@
-// ---------------- FARBE 1 --------------------
 .customColor{
   color: hotpink !important;
   background-color: hotpink !important;
@@ -21,8 +20,6 @@ button.mat-mdc-outlined-button:not(:disabled) {
     background-color: hotpink !important;
 }
 
-
-// ---------------- FARBE 2 --------------------
 
 .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
   --mdc-chip-elevated-container-color: bisque !important;
