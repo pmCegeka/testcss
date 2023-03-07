@@ -17,6 +17,9 @@ button.mat-mdc-outlined-button:not(:disabled) {
   background-color: hotpink !important;
 }
 
+.mat-step-icon.mat-step-icon-state-edit{
+    background-color: hotpink !important;
+}
 
 
 // ---------------- FARBE 2 --------------------
