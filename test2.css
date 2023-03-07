@@ -1,12 +1,10 @@
+// ---------------- FARBE 1 --------------------
+
+
 .customColor{
   color: limegreen !important;
   background-color: limegreen !important;
   outline: 2px solid limegreen !important;
-}
-
-
-.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
-  --mdc-chip-elevated-container-color: limegreen !important;
 }
 
 button.mat-stepper-next:not(:disabled){
@@ -15,4 +13,10 @@ button.mat-stepper-next:not(:disabled){
 
 button.mat-mdc-outlined-button:not(:disabled) {
   color: limegreen !important;
+}
+
+// ---------------- FARBE 2 --------------------
+
+.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+  --mdc-chip-elevated-container-color: purple !important;
 }
