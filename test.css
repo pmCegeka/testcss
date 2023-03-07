@@ -20,7 +20,6 @@ button.mat-mdc-outlined-button:not(:disabled) {
     background-color: hotpink !important;
 }
 
-
-.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+.dienstherr-picker mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
   --mdc-chip-elevated-container-color: bisque !important;
 }
