@@ -13,6 +13,11 @@ button.mat-mdc-outlined-button:not(:disabled) {
   color: hotpink !important;
 }
 
+.mat-step-icon.mat-step-icon-state-number.mat-step-icon-selected {
+  background-color: hotpink !important;
+}
+
+
 
 // ---------------- FARBE 2 --------------------
 
