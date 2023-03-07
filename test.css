@@ -4,6 +4,6 @@
   outline: 2px solid hotpink !important;
 }
 
-::ng-deep .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
-  --mdc-chip-elevated-container-color: hotpink ;
+.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+  --mdc-chip-elevated-container-color: hotpink !important;
 }
