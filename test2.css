@@ -11,5 +11,8 @@
 
 button.mat-stepper-next:not(:disabled){
   background-color: limegreen !important;
-  outline: 2px solid pink !important;
+}
+
+button.mat-mdc-outlined-button:not(:disabled) {
+  color: limegreen !important;
 }
