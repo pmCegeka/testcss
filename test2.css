@@ -22,5 +22,5 @@ button.mat-mdc-outlined-button:not(:disabled) {
 }
 
 .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
-  --mdc-chip-elevated-container-color: limegreen !important;
+  --mdc-chip-elevated-container-color: bisque !important;
 }
