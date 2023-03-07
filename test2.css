@@ -3,3 +3,8 @@
   background-color: limegreen !important;
   outline: 2px solid limegreen !important;
 }
+
+
+::ng-deep .mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+  --mdc-chip-elevated-container-color: limegreen ;
+}
