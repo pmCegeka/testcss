@@ -19,6 +19,10 @@ button.mat-mdc-outlined-button:not(:disabled) {
   background-color: limegreen !important;
 }
 
+.mat-step-icon.mat-step-icon-state-edit{
+    background-color: limegreen !important;
+}
+
 
 // ---------------- FARBE 2 --------------------
 
