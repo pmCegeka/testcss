@@ -1,3 +1,6 @@
+/*
+ Farbe 1
+*/
 
 .customColor{
   color: limegreen !important;
@@ -21,6 +24,10 @@ button.mat-mdc-outlined-button:not(:disabled) {
     background-color: limegreen !important;
 }
 
-.dienstherr-picker mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+/*
+ Farbe 2
+*/
+
+mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
   --mdc-chip-elevated-container-color: yellow !important;
 }
