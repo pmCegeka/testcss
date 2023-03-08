@@ -28,6 +28,11 @@ mat-icon.checkmark-icon{
   color: limegreen !important;
 }
 
+.mat-calendar-body-cell:not(.mat-calendar-body-disabled):hover > .mat-calendar-body-cell-content:not(.mat-calendar-body-selected):not(.mat-calendar-body-comparison-identical){
+  // limgreen
+  background-color: rgb(50,205,50, 0.3);
+}
+
 
 /*
  Farbe 2
@@ -38,20 +43,12 @@ mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
 }
 
 .mdc-text-field--filled:not(.mdc-text-field--disabled) .mdc-line-ripple::before {
-  border-bottom-color: yellow !important;
-}
-
-.mdc-text-field--filled:not(.mdc-text-field--disabled) .mdc-line-ripple::before {
-  border-bottom-color: bisque !important;
+  border-bottom-color: yellow;
 }
 
 .mat-calendar-body-selected , .mat-calendar-body-today{
-  background-color: hotpink !important;
+  background-color: yellow !important;
 }
 
-.mat-calendar-body-cell:not(.mat-calendar-body-disabled):hover > .mat-calendar-body-cell-content:not(.mat-calendar-body-selected):not(.mat-calendar-body-comparison-identical){
-  // limgreen
-  background-color: rgb(50,205,50, 0.3);
-}
 
 
