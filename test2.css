@@ -24,6 +24,11 @@ button.mat-mdc-outlined-button:not(:disabled) {
     background-color: limegreen !important;
 }
 
+mat-icon.checkmark-icon{
+  color: limegreen !important;
+}
+
+
 /*
  Farbe 2
 */
