@@ -33,7 +33,7 @@ mat-icon.checkmark-icon{
  Farbe 2
 */
 
-.dienstherr-picker mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
+mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
   --mdc-chip-elevated-container-color: bisque !important;
 }
 
