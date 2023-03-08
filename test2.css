@@ -27,8 +27,9 @@ button.mat-mdc-outlined-button:not(:disabled) {
 mat-icon.checkmark-icon{
   color: limegreen !important;
 }
- mat-card-header {
-    background-color: rgb(50,205,50,0.4);
+
+mat-card-header {
+    background-color: rgb(50,205,50,0.4) !important;
  }
 
 /*
