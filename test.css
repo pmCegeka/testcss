@@ -28,6 +28,9 @@ mat-icon.checkmark-icon{
   color: hotpink !important;
 }
 
+mat-card-header {
+    background-color: rgb(255,105,180,0.4) !important;
+}
 
 /*
  Farbe 2
