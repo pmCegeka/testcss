@@ -52,5 +52,12 @@ mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
   background-color: bisque !important;
 }
 
+/*
+ Farbe 3 - Footer only
+*/
+
+.footer{
+ background-color: steelblue;
+}
 
 
