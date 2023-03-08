@@ -36,3 +36,8 @@ mat-icon.checkmark-icon{
 mat-chip-option.mat-mdc-standard-chip.mat-accent.mat-mdc-chip-selected{
   --mdc-chip-elevated-container-color: yellow !important;
 }
+
+.mdc-text-field--filled:not(.mdc-text-field--disabled) .mdc-line-ripple::before {
+  border-bottom-color: yellow !important;
+}
+
