@@ -6,7 +6,7 @@ bisque: RGB   255,228,196
 
 :root {
   --primary-custom-color: rgb(255,228,196) !important;
-  --secondary-custom-color: rgb(255,205,180) !important;
+  --secondary-custom-color: rgb(255,105,180) !important;
   --footer-custom-color: green !important;
 }
 
