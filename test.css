@@ -1,7 +1,20 @@
+/*
+Test colors:
+hotpink: RGB   255,105,180
+bisque: RGB   255,228,196
+*/
 
 :root {
-  --primary-custom-color: bisque !important;
-  --secondary-custom-color: hotpink !important;
+  --primary-custom-color: rgb(255,228,196) !important;
+  --secondary-custom-color: rgb(255,205,180) !important;
   --footer-custom-color: green !important;
 }
 
+/*
+opaque colors
+*/
+
+:root{
+  --primary-custom-color-opaque-ergebnis-card-header: rgb(255,228,196, 0.4);
+  --secondary-custom-color-opaque-datepicker-days-hover: rgb(255,205,180, 0.3);
+}
