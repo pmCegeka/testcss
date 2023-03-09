@@ -1,8 +1,21 @@
+/*
+Test colors:
+turqoise: RGB   255,105,180
+limegreen: RGB   50,205,50
+*/
 
 
 :root {
-  --primary-custom-color: turquoise !important;
-  --secondary-custom-color: limegreen !important;
+  --primary-custom-color: rgb(255,105,180) !important;
+  --secondary-custom-color: rgb(50,205,50) !important;
   --footer-custom-color: steelblue !important;
 }
 
+/*
+opaque colors
+*/
+
+:root{
+  --primary-custom-color-opaque-ergebnis-card-header: rgb(255,105,180, 0.4);
+  --secondary-custom-color-opaque-datepicker-days-hover: rgb(50,205,50, 0.3);
+}
